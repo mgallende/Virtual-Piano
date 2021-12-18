@@ -1,2 +1,2 @@
 # Virtual-Piano
-Itss only a new jetbrains project
+It's only a new jetbrains project
